@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayShuffle",
+            "request": "launch",
+            "mainClass": "ArrayShuffle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Game369",
+            "request": "launch",
+            "mainClass": "Game369"
+        }
+    ]
+}
